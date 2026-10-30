@@ -1,0 +1,9 @@
+node_modules/
+.env
+.env.*
+!.env.example
+/.pingroom/
+/.chapters/
+/config.json
+/transcript.json
+.DS_Store
